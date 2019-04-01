@@ -1,9 +1,6 @@
 # Prerequisites
 *.d
 
-# Build Directories
-./src/build-coDE-Desktop-Debug
-
 # QT Creator autogen files
 *.pro
 *.pro.user
