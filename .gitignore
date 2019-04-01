@@ -5,11 +5,17 @@
 *.pro
 *.pro.user
 
+# root res file
+./res
+
 # Compiled Object files
 *.slo
 *.lo
 *.o
 *.obj
+
+# Binary
+coDE
 
 # Precompiled Headers
 *.gch
